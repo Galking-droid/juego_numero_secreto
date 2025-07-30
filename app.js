@@ -13,7 +13,7 @@ function asignarTextoElemento(elemento, texto){
 function verificarIntento() {
     let numeroUsuario = parseInt(document.getElementById('valorUsuario').value);
 
-    //Verifica que el valor ingresado esté entre el rango indicado
+    //Verifica que el valor ingresado esté entre el rango indicado.
     if (isNaN(numeroUsuario) || numeroUsuario < 1 || numeroUsuario > numeroMaximo) {
         asignarTextoElemento('p', `Ingresa un número válido, debe ser entre 1 y ${numeroMaximo}`);
         limpiarCaja();
