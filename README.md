@@ -23,8 +23,8 @@ Este proyecto incluye la implementación de la lógica del juego y mejoras adici
 * **Contador de Intentos**: Lleva un registro de cuántos intentos te ha tomado adivinar el número.
 * **Validación de Entrada**: Asegura que solo se ingresen números válidos dentro del rango permitido (desafío implementado).
 * **Juego Reiniciable**: Inicia una nueva partida con un clic después de acertar el número.
-* **Números No Repetidos (hasta agotar el rango)**: Si se juegan varias partidas consecutivas, el juego intenta no repetir números secretos hasta que se hayan sorteado todos los posibles dentro del rango (desafío implementado).
-* **Límite de Intentos**: Se ha integrado un límite de intentos para añadir un factor de desafío al juego (desafío implementado).
+* **Números No Repetidos (hasta agotar el rango)**: Si se juegan varias partidas consecutivas, el juego intenta no repetir números secretos hasta que se hayan sorteado todos los posibles dentro del rango.
+* **Límite de Intentos**: Se ha integrado un límite de intentos para añadir un factor de desafío al juego.
 
 ---
 
@@ -57,7 +57,7 @@ Para jugar al "Juego del Número Secreto" en tu computadora:
 
 ## ✍️ Autor
 
-* **Galking-droid** (Tu nombre de usuario en GitHub)
+* **Galking-droid**
 * **Alura LATAM** - Contenido HTML y CSS, guía y formación en JavaScript.
 
 ---
